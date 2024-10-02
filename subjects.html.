@@ -9,16 +9,44 @@
           <meta name="date-submitted" content="10/2/14">
     </head>
     <body>
+
 <h1>My Subjects</h1>
-<table style="border: 1px solid black;">
-     <tr>
-       <th style="border: 1px solid black;">Subjects</td>
-       <th style="border  1px solid black;">Thoughts</td>
-     </tr>
-     <tr>
-       <td style="border: 1px solid black;">Row 1, Column 1</td>
-       <td style="border: 1px solid black;'>Row 1, column 1</td>
-     </tr>
-     </table>
+
+<center>
+<table>
+<th rowspan= "2">subjects</th>
+<th colspan="2">Thoughts</th>
+
+<tr>
+<th>What I like about the subject</th>
+<th>Color</th>
+</tr>
+
+<tr style= "backround-color:#b3f263" >
+<td>Social Science</td>
+<td>It's interesting!</td>
+<td>
+I choose lime because socsci is refreshing like lime.
+</td>
+</tr>
+
+<tr style= "backround-color:#f08080" >
+<td>Math</td>
+<td>Math sucks!</td>
+<td>
+I choose light coral cuz it makes me mad.
+</td>
+</tr>
+
+<tr style= "backround-color:#ffb6c1" >
+<td>English</td>
+<td>English is ok.</td>
+<td>
+I choose light pink cuz it's plain.
+</td>
+</tr>
+
+</table>
+</center>
     </body>
 </html>
